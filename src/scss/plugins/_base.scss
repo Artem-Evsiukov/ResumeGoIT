@@ -1,0 +1,41 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+.container
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+ul
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+body
+{
+    font: 400 16px/1 'Roboto', Arial, Tahoma, Verdana, sans-serif;
+
+    background-size: 100% auto;
+}
+
+.wrapper
+{
+    overflow: hidden;
+}
+
